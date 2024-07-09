@@ -1,3 +1,0 @@
-
-mod setter;
-mod getter;
